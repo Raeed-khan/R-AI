@@ -1,3 +1,56 @@
+<!-- ====================================================================
+     ██████╗       █████╗ ████████╗████████╗ █████╗  ██████╗██╗  ██╗
+     ██╔══██╗     ██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+     ██████╔╝     ███████║    ██║      ██║   ███████║██║     █████╔╝ 
+     ██╔══██╗     ██╔══██║    ██║      ██║   ██╔══██║██║     ██╔═██╗ 
+     ██║  ██║     ██║  ██║    ██║      ██║   ██║  ██║╚██████╗██║  ██╗
+     ╚═╝  ╚═╝     ╚═╝  ╚═╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+                    MARK IV - AI ASSISTANT
+     ==================================================================== -->
+
+<!-- ==================== COSMIC HEADER ==================== -->
+<div align="center">
+
+<!-- Animated AI Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0055FF,100:00FF41&height=300&section=header&text=RAEED-AI&fontSize=120&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=Personal%20AI%20Assistant%20(MARK%20IV)&descAlignY=65&descSize=25" width="100%" />
+
+<!-- Matrix Rain Effect -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
+<br/>
+
+<!-- Holographic Badge Row -->
+<a href="https://github.com/Raeed-khan">
+  <img src="https://img.shields.io/badge/⚡_VERSION-MARK_IV-00FF41?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=00FF41" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-FF0080?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=FF0080" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🛡️_SECURITY-MAXIMUM-0080FF?style=for-the-badge&labelColor=000000&logo=shield&logoColor=0080FF" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/👤_OWNER-RAEED_KHAN-FFD700?style=for-the-badge&labelColor=000000&logo=headhunting&logoColor=FFD700" />
+</a>
+
+<br/><br/>
+
+<!-- 3D Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=%E2%9A%A1+RAEED+AI+ASSISTANT+(MARK+IV)+%E2%9A%A1;%F0%9F%94%A5+ADVANCED+AUTOMATION+%26+COMMAND+CENTER+%F0%9F%94%A5;%F0%9F%9A%80+BUILT+FOR+RAEED+KHAN+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ==================== NEON DIVIDER ==================== -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" />
+</div>
+
+---
+
 # 🤖 RAEED - Personal AI Assistant (MARK IV)
 
 **RAEED** is an advanced, high-performance Personal AI Assistant system designed for seamless command execution, voice communication, real-time activity monitoring, and system automation. Built with modular Python architecture, it features a dynamic futuristic HUD interface and intelligent background automation tools.
@@ -32,82 +85,3 @@ RAEED-LV-main/
 ├── setup.py        # System installer and package builder
 ├── ui.py           # Futuristic GUI interface
 └── README.md       # Project documentation
-```
-
----
-
-## ⚙️ Installation & Setup
-
-### 🪟 Windows Setup
-
-1. **Navigate to Project Directory:**
-   ```cmd
-   cd C:\Users\Administrator\Downloads\RAEED-LV-main\RAEED-LV-main
-   ```
-
-2. **Install Dependencies:**
-   ```cmd
-   pip install -r requirements.txt
-   ```
-
-3. **Install Package (Editable Mode):**
-   ```cmd
-   python setup.py install
-   ```
-
-4. **Launch the Assistant:**
-   - Console Mode:
-     ```cmd
-     python main.py
-     ```
-   - Graphic HUD Mode:
-     ```cmd
-     python ui.py
-     ```
-
----
-
-### 🐧 Kali Linux / Ubuntu Setup
-
-1. **Update System & Install Virtual Environment:**
-   ```bash
-   sudo apt update && sudo apt install python3-pip python3-venv -y
-   ```
-
-2. **Create and Activate Virtual Environment:**
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
-3. **Install Required Packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Install Package Configuration:**
-   ```bash
-   python3 setup.py install
-   ```
-
-5. **Launch RAEED:**
-   ```bash
-   python3 ui.py
-   ```
-
----
-
-## 🧠 System Behavior & Configuration
-
-RAEED is governed by strict administrative prompts configured for executive-level performance:
-
-- **Startup Sequence:** Flushes temporary memory buffers on boot and initializes with:
-  > *"RAEED online and ready, sir."*
-- **Response Mode:** Direct, crisp, instant replies without diagnostic log clutter (`SYS` logs remain strictly in backend telemetry).
-- **Owner Attribution:** Configured exclusively as the Personal AI Assistant to **Raeed Khan**.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
