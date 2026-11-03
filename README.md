@@ -11,33 +11,33 @@
 <!-- ==================== COSMIC HEADER ==================== -->
 <div align="center">
 
-<!-- Animated AI Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0055FF,100:00FF41&height=300&section=header&text=RAEED-AI&fontSize=120&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=Personal%20AI%20Assistant%20(MARK%20IV)&descAlignY=65&descSize=25" width="100%" />
+<!-- Animated Neon Blue/Purple Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:7B2CBF,100:00D4FF&height=300&section=header&text=RAEED-AI&fontSize=120&fontColor=00D4FF&animation=twinkling&fontAlignY=40&desc=Personal%20AI%20Assistant%20(MARK%20IV)&descAlignY=65&descSize=25" width="100%" />
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <br/>
 
-<!-- Holographic Badge Row -->
+<!-- Holographic Badge Row (Cyan & Purple Theme) -->
 <a href="https://github.com/Raeed-khan">
-  <img src="https://img.shields.io/badge/⚡_VERSION-MARK_IV-00FF41?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/⚡_VERSION-MARK_IV-00D4FF?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=00D4FF" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-FF0080?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=FF0080" />
+  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-7B2CBF?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=7B2CBF" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/🛡️_SECURITY-MAXIMUM-0080FF?style=for-the-badge&labelColor=000000&logo=shield&logoColor=0080FF" />
+  <img src="https://img.shields.io/badge/🛡️_SECURITY-MAXIMUM-FF007A?style=for-the-badge&labelColor=000000&logo=shield&logoColor=FF007A" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/👤_OWNER-RAEED_KHAN-FFD700?style=for-the-badge&labelColor=000000&logo=headhunting&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/👤_OWNER-RAEED_KHAN-00FF88?style=for-the-badge&labelColor=000000&logo=headhunting&logoColor=00FF88" />
 </a>
 
 <br/><br/>
 
-<!-- 3D Typing Animation -->
+<!-- 3D Typing Animation (Cyan Color) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=%E2%9A%A1+RAEED+AI+ASSISTANT+(MARK+IV)+%E2%9A%A1;%F0%9F%94%A5+ADVANCED+AUTOMATION+%26+COMMAND+CENTER+%F0%9F%94%A5;%F0%9F%9A%80+BUILT+FOR+RAEED+KHAN+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=%E2%9A%A1+RAEED+AI+ASSISTANT+(MARK+IV)+%E2%9A%A1;%F0%9F%94%A5+ADVANCED+AUTOMATION+%26+COMMAND+CENTER+%F0%9F%94%A5;%F0%9F%9A%80+BUILT+FOR+RAEED+KHAN+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
